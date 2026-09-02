@@ -80,3 +80,4 @@ To run the notebook locally:
 1. Navigate to `Practical/Titanic-Predection`.
 2. Open `Titanic_Survival_Prediction.ipynb` in Jupyter Notebook, VS Code, or Google Colab.
 3. Run all cells sequentially to execute preprocessing, model training, and asset generation.
+

@@ -49999,3 +49999,4 @@ StudentID,Gender,City,CollegeTier,Stream,Specialisation,Hostel,HistoryOfBacklogs
 49998,Male,Ahmedabad,Tier1,Civil,DataScience,Yes,Yes,5.69,6.09,5.37,5.5,5.75,6.31,5.96,5.64,5.92,89.5,1,1,1,2,0,,3.1,49.1,57.7,1,Low,0,0
 49999,Female,Bangalore,Tier3,CS,DataScience,No,No,6.02,6.31,6.16,5.74,5.75,5.9,6.24,6.35,6.09,63.8,0,2,2,2,1,74.5,2.5,,48.3,1,Low,0,0
 50000,Female,Delhi,Tier2,ECE,Networking,No,No,6.51,6.37,5.98,5.7,5.6,5.65,5.81,5.58,5.97,55.7,0,1,0,0,0,58.3,2.3,29.5,30.6,0,Low,0,0
+

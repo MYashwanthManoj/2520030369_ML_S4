@@ -33,3 +33,4 @@ To run the analysis locally:
 1. Open `WEEK1_EXPLORATARY-DATA-ANALYSIS.ipynb` in Jupyter Notebook or VS Code / Google Colab.
 2. Ensure required Python packages are installed (`pandas`, `numpy`, `matplotlib`, `seaborn`).
 3. Execute all cells to generate updated statistics and graphs in `placement_all_graphs/`.
+
