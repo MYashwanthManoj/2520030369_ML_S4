@@ -1,5 +1,6 @@
 # Ignore Project folder and heavy archives
 Project/
 *.zip
+!Titanic-Predection/titanic_all_graphs_and_results.zip
 Project Titles using ML & DL Algorithms.pdf
 
